@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>periodic table learner</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
+    <link href="main.css" rel="stylesheet">
+</head>
+<body>
+    <div id="question_span">
+        <h2 id="q_name"></h2>
+        symbol<input type="text" id="q_symbol"></input><br/>
+        atomic number<input type="number" id="q_atomic_number"></input><br/>
+        atomic weight<input type="number" id="q_weight"></input><br/>
+    </div>
+        
+    
+    <div id="result_span">
+        <p id="n_title" class="new"></p>
+        <p id="r_symbol"></p>
+        <p id="r_atomic_number"></p>
+        <p id="r_weight"></p>
+        <p id="r_position"></p>
+    </div>
+    
+    <button onclick="check_result()" id="vbutton">next</button>
+
+    <canvas id="canvas" width="600" height="300"></canvas>
+
+    <script src="main.js"></script>
+
+
+
+
+    <footer id="cookie_consent">this page uses cookies to save your progression <button onclick="cconsent()">OK</button></footer>
+    <script src="cookies.js"></script>
+</body>
+</html>
