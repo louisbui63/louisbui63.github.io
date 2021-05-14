@@ -1029,8 +1029,9 @@ function introduce_element() {
         [].slice.call(document.getElementById("result_span").children).map((a) => {a.classList.add("new")});
         draw_table();
         let c = pos2coord(elements[unlockeds].position);
+        console.log(c);
         ctx.fillStyle = '#ff0';
-        ctx.fillRect(c[0]*square_size + c[0]*square_margin, c[1]*square_size + c[1]*square_margin, square_size, square_size);
+        ctx.fillRect(c[1]*square_size + c[1]*square_margin, c[0]*square_size + c[0]*square_margin, square_size, square_size);
         save_progression();
     }
 }
