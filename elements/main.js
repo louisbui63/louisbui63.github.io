@@ -135,7 +135,7 @@ const elements = [
         "sodium",
         "Na",
         11,
-        23.00,
+        22.99,
         10
     ),
     new Element(
@@ -170,7 +170,7 @@ const elements = [
         "sulfur",
         "S",
         16,
-        32.07,
+        32.06,
         15
     ),
     new Element(
@@ -240,7 +240,7 @@ const elements = [
         "iron",
         "Fe",
         26,
-        55.84,
+        55.85,
         25
     ),
     new Element(
