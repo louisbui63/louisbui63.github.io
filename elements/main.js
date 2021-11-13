@@ -897,7 +897,7 @@ let fluency = [];
 function display_element(element) {
     document.getElementById("r_symbol").innerHTML = element.symbol;
     document.getElementById("r_atomic_number").innerHTML = element.atomic_number;
-    document.getElementById("r_weight").innerHTML = element.weight.toLocaleString('en-US', {minimumFractionDigits: 2}) + " g.mol<sup>-1</sup>";
+    document.getElementById("r_weight").innerHTML = element.weight.toLocaleString('en-US', {minimumFractionDigits: 2}) + " g·mol<sup>-1</sup>";
 }
 
 function empty_results() {
