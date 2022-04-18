@@ -23,13 +23,13 @@ title: Some Graphs
 
 [votes for Eric Zemmour per commune](/elec2022t1/loc_Eric Zemmour.html)
 
-[votes for Jean-Luc Melenchon per commune](/elec2022t1/loc_Jean-Luc Melenchon.html)
+[votes for Jean-Luc Mélenchon per commune](/elec2022t1/loc_Jean-Luc Mélenchon.html)
 
 [votes for Anne Hidalgo per commune](/elec2022t1/loc_Anne Hidalgo.html)
 
 [votes for Valérie Pécresse per commune](/elec2022t1/loc_Valérie Pécresse.html)
 
-[votes for Phillippe Poutou per commune](/elec2022t1/loc_Phillippe Poutou.html)
+[votes for Phillippe Poutou per commune](/elec2022t1/loc_Philippe Poutou.html)
 
 [votes for Nicolas Dupont-Aignan per commune](/elec2022t1/loc_Nicolas Dupont-Aignan.html)
 
