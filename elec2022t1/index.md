@@ -35,7 +35,7 @@ title: Some Graphs
 
 [votes for Yannick Jadot per commune](/elec2022t1/loc_Yannick Jadot.html)
 
-**INTERACTIVES MAPS**
+**NON INTERACTIVES MAPS**
 
 [votes for Nathalie Arthaud per commune](/elec2022t1/loc_Nathalie Arthaud.png)
 
